@@ -84,5 +84,5 @@ We welcome contributions! To get started:
 5. **Open a pull request.**
 
 # Support
-- **Issues:** Report bugs or request features on the [Issues page](https://github.com/Cumr1y/Kaori-/issues).
+- **Issues:** Report bugs or request features on the [Issues page](https://github.com/Cumr1y/KaoriBot/issues)).
 - **Discord:** Join our community server [here](https://discord.gg/myaNUHaT8y) for support and updates.
